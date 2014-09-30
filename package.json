@@ -1,0 +1,15 @@
+{
+  "name": "purescript-mario",
+  "version": "0.0.1",
+  "description": "An attempt at a port of the Elm Mario example (http://elm-lang.org/edit/examples/Intermediate/Mario.elm)",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-purescript": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brenton Alker <brenton@tekerson.com>",
+  "license": "MIT"
+}

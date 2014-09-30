@@ -1,0 +1,16 @@
+{
+  "name": "purescript-mario",
+  "version": "0.0.1",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "purescript-signal": "https://github.com/tekerson/purescript-signal.git",
+    "purescript-control": "0.2.1",
+    "purescript-canvas": "0.1.5",
+    "purescript-dom": "0.1.1"
+  }
+}
